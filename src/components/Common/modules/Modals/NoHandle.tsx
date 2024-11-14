@@ -36,7 +36,7 @@ const NoHandle: FunctionComponent<NoHandleProps> = ({
               <a
                 target="_blank"
                 rel="noreferrer"
-                href={"https://claim.lens.xyz"}
+                href={"https://onboarding.lens.xyz/"}
                 onClick={() => dispatch(setNoHandle(false))}
                 className="relative w-fit h-10 flex px-4 cursor-sewingHS font-vcr bg-black active:scale-95 border border-white text-white rounded-md items-center justify-center"
               >
